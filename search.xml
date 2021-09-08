@@ -161,14 +161,18 @@ Includes, but not limited to: Major discussions of cult, depictions of harrassme
 
 
 
+
     :root {
-        --story-theme-color--rgb: 0, 75, 181;
-        --story-theme-color: #004BB5;
+        --storyColor: #23c1db; /* hsl(188, 72%, 50%) */
+        --storyColor-rgb: 35,193,219;
+        --storyColor-h: 188;
+        --storyColor-s: 72%;
+        --storyColor-l: 50%;
         --background: url("/gh/310mc/310mc.github.io/img/es/eventstory/meteorimpact/kanataorigcg.jpg");
     }
     @media (max-width: 567px) {
         .post-block {
-            padding: 8px 10px 8px !important;
+            padding: 5px 10px 8px !important;
         }
     }
 
@@ -195,7 +199,7 @@ Includes, but not limited to: Major discussions of cult, depictions of harrassme
                 
                     
                         Season
-                        Past, Present time during the end of year
+                        Past – Present time
                     
                     
                         Chapters
@@ -206,16 +210,34 @@ Includes, but not limited to: Major discussions of cult, depictions of harrassme
                         Akira
                     
                     
-                        Characters
-                        Ryuseitai, Akatsuki, Madara, Subaru, Shu
+                        
+                            Characters
+                        
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
                     
                     
-                        Translation
+                        
+                            Translator
+                        
                         310mc (Main), with co-translators emu and haranami
                     
                     
-                    Proofreading
-                    SayonaraRevival (Main), Revoltrad, Goldgust,Shie, Nanashi
+                        
+                            Proofreaders
+                        
+                            SayonaraRevival (Main), Revoltrad, Goldgust, Shie, Nanashi
                     
                     
                     Total Average Reading Time
@@ -223,25 +245,129 @@ Includes, but not limited to: Major discussions of cult, depictions of harrassme
                     
                 
             
+                
+                    Extra Information
+                
+                
+                    
+                        
+                            Event
+                        
+                        
+                            Reminiscence＊Ryusei Bonfire
+                        
+                    
+                    
+                        
+                            Event Duration
+                        
+                        
+                            3/31/2019 (15:00 JST) - 4/10/2019 (22:00 JST)
+                        
+                    
+                
+            
+            
+                
+                    CG Gallery
+                
+                
+                    
+                        
+                            
+                                
+                            
+                            
+                                Not Quite a Hero 15
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                                Not Quite a Hero 16
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                                Unqualified Hero 19
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                                Unqualified Hero 20
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                                Unqualified Hero 26
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                                Unqualified Hero 29
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                               Unqualified Hero 32
+                            
+                        
+                        
+                            
+                                
+                            
+                            
+                              Unqualified Hero 33
+                            
+                        
+                    
+                
+            
+        
             
                 
                     Prologue
-                    Two Years Ago:Not Quite A HeroChapter 1-8
-                    Not Quite A HeroChapter 9-17
+                    Two Years Ago:Not Quite A HeroChapter 1–8
+                    Not Quite A HeroChapter 9–17
                     Monologue
-                    One Year Ago:Unqualified HeroChapter 1-12
-                    Unqualified HeroChapter 13-26
-                    Unqualified HeroChapter 27-33
+                    One Year Ago:Unqualified HeroChapter 1–12
+                    Unqualified HeroChapter 13–26
+                    Unqualified HeroChapter 27–33
                     Epilogue
+                
                 
             
         
     
+    Translator's Comment: If you spot any mistakes, whether coding or grammatical errors, please DM me on twitter!
 
-Translator's Comment: If you spot any mistakes, whether coding or grammatical errors, please DM me on twitter!
+    This story took a lot of emotional energy to read, translate, edit, set-up, upload, and just digest. The reason for the content warnings is that I was personally emotionally disoriented from the story contents, so I added them in hopes to alleviate the shock of this story for those who need it. Otherwise, please sit back and enjoy!
 
-This story took a lot of emotional energy to read, translate, edit, set-up, upload, and just digest. The reason for the content warnings is that I was personally emotionally disoriented from the story contents, so I added them in hopes to alleviate the shock of this story for those who need it. Otherwise, please sit back and enjoy!
-
+    
+    $(document).ready(function() {
+      $('.tab-header').click(function(){
+        $(this).next().slideToggle();
+        $('.tab-header__name').toggleClass(open, add);
+      })
+    });
+    
 ]]></content>
       <categories>
         <category>Enstars</category>
