@@ -262,7 +262,7 @@ Includes, but not limited to: Major discussions of cult, depictions of harrassme
                             Event Duration
                         
                         
-                            3/31/2019 (15:00 JST) - 4/10/2019 (22:00 JST)
+                            2019/3/31 (15:00 JST) - 2019/4/10 (22:00 JST)
                         
                     
                 
@@ -819,14 +819,13 @@ Translation Notes
     <url>/comet_show/</url>
     <content><![CDATA[
 
-
     :root {
         --storyColor: #23c1db; /* hsl(188, 72%, 50%) */
         --storyColor-rgb: 35,193,219;
         --storyColor-h: 188;
         --storyColor-s: 72%;
         --storyColor-l: 50%;
-        --background: 100%/100% url("/img/es/eventstory/cometshow/chiakiorigcg.jpg");
+        --background: 100%/100% url("https://310mc.github.io/img/es/eventstory/cometshow/chiakiorigcg.jpg");
     }
     @media (max-width: 567px) {
         .post-block {
@@ -845,7 +844,7 @@ Translation Notes
             
             
                 
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead...
+                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
                 
                 
                     
@@ -886,7 +885,7 @@ Translation Notes
                     
                     
                         
-                            Translator
+                            Translation
                         
                         
                             moricchiichan, 310mc
@@ -894,7 +893,7 @@ Translation Notes
                     
                     
                         
-                            Proofreaders
+                            Proofreading
                         
                         
                             honeyspades, TsubasaFL, Gelyan
@@ -934,7 +933,7 @@ Translation Notes
             
             
                 
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead...
+                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
                 
                 
                     
@@ -975,7 +974,7 @@ Translation Notes
                     
                     
                         
-                            Translator
+                            Translation
                         
                         
                           moricchiichan, 310mc
@@ -983,7 +982,7 @@ Translation Notes
                     
                     
                         
-                            Proofreaders
+                            Proofreading
                         
                         
                             honeyspades, TsubasaFL, Gelyan
@@ -1016,7 +1015,7 @@ Translation Notes
                                 Event Duration
                             
                             
-                                12/31/2020 (15:00 JST) - 1/8/2021 (22:00 JST)
+                                2020/12/31 (15:00 JST) - 2021/1/8 (22:00 JST)
                             
                         
                     
@@ -1306,8 +1305,8 @@ Translation Notes
                         Chiaki Morisawa
                         
                         
-                            1
-                            2
+                            x
+                            x
                             
                         
                     
@@ -1315,8 +1314,8 @@ Translation Notes
                         Midori Takamine
                         
                         
-                            1
-                            2
+                            x
+                            x
                             
                         
                     
@@ -1324,8 +1323,8 @@ Translation Notes
                         Kanata Shinkai
                         
                             
-                            1
-                            2
+                            x
+                            x
                             
                         
                     
@@ -1333,8 +1332,8 @@ Translation Notes
                         Tetora Nagumo
                         
                             
-                            1
-                            2
+                            x
+                            x
                             
                         
                     
@@ -1342,8 +1341,8 @@ Translation Notes
                         Shinobu Sengoku
                         
                             
-                            1
-                            2
+                            x
+                            x
                             
                         
                     
@@ -4533,8 +4532,8 @@ Translation Notes
         <category>Kuro</category>
         <category>Keito</category>
         <category>Subaru</category>
-        <category>Madara</category>
         <category>Souma</category>
+        <category>Madara</category>
         <category>Shu</category>
       </categories>
       <tags>
@@ -5943,8 +5942,8 @@ Translation Notes
         <category>Kuro</category>
         <category>Keito</category>
         <category>Subaru</category>
-        <category>Madara</category>
         <category>Souma</category>
+        <category>Madara</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
