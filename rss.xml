@@ -15,8 +15,31 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Thu, 31 Dec 2020 06:10:00 GMT</pubDate>
+    <pubDate>Sun, 26 Sep 2021 20:50:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Comet Show: Midori Takamine Mini Talk – Topics about that Guy</title>
+      <link>https://310mc.github.io/comet_show/minitalk/midori_2/</link>
+      <guid>https://310mc.github.io/comet_show/minitalk/midori_2/</guid>
+      <pubDate>Sun, 26 Sep 2021 20:50:00 GMT</pubDate>
+      
+      <description>[ES!!] Midori&#39;s second Mini Talk from Comet Show. It&#39;s from Anzu&#39;s POV.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      
+      <comments>https://310mc.github.io/comet_show/minitalk/midori_2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Comet Show</title>
@@ -297,9 +320,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/Subaru/">Subaru</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/Souma/">Souma</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
       
       
       <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
@@ -334,9 +357,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/Subaru/">Subaru</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/Souma/">Souma</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Shu/">Shu</category>
       
