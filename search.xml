@@ -382,18 +382,6 @@ Includes, but not limited to: Major discussions of cult, depictions of harrassme
       </tags>
   </entry>
   <entry>
-    <title>test1234</title>
-    <url>/test/</url>
-    <content><![CDATA[testing
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/testing123/</url>
-    <content><![CDATA[testtt
-]]></content>
-  </entry>
-  <entry>
     <title>ES!! Main Story: Chapter 123–124</title>
     <url>/es2_mainstory/ch123_124/</url>
     <content><![CDATA[
@@ -758,8 +746,8 @@ Translation Notes
         <category>Midori</category>
         <category>Chiaki</category>
         <category>Tetora</category>
-        <category>Kanata</category>
         <category>Shinobu</category>
+        <category>Kanata</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -884,8 +872,8 @@ Translation Notes
         <category>Midori</category>
         <category>Chiaki</category>
         <category>Tetora</category>
-        <category>Kanata</category>
         <category>Shinobu</category>
+        <category>Kanata</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -1019,8 +1007,8 @@ Translation Notes
         <category>Midori</category>
         <category>Chiaki</category>
         <category>Tetora</category>
-        <category>Kanata</category>
         <category>Shinobu</category>
+        <category>Kanata</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -2064,8 +2052,8 @@ Translation Notes
         <category>Midori</category>
         <category>Chiaki</category>
         <category>Tetora</category>
-        <category>Kanata</category>
         <category>Shinobu</category>
+        <category>Kanata</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -2715,8 +2703,8 @@ Translation Notes
         <category>Midori</category>
         <category>Chiaki</category>
         <category>Tetora</category>
-        <category>Kanata</category>
         <category>Shinobu</category>
+        <category>Kanata</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
