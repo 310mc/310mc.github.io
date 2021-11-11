@@ -15,8 +15,43 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Thu, 11 Nov 2021 13:00:00 GMT</pubDate>
+    <pubDate>Thu, 11 Nov 2021 19:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!!] me, the sea, and everyone with me</title>
+      <link>https://310mc.github.io/me_the_sea_and_everyone_with_me/</link>
+      <guid>https://310mc.github.io/me_the_sea_and_everyone_with_me/</guid>
+      <pubDate>Thu, 11 Nov 2021 19:00:00 GMT</pubDate>
+      
+      <description>[ES!!] Kanata&#39;s Feature Scout Story, featuring Rei, Kaoru, Natsume, and Chiaki. Kaoru finds seashells and sequins on the floor, and follows its trail…</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Rei/">Rei</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kaoru/">Kaoru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Natsume/">Natsume</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Umeda-Chitose/">Umeda Chitose</category>
+      
+      
+      <comments>https://310mc.github.io/me_the_sea_and_everyone_with_me/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[ES!] Izumi Sena – Management Story</title>
@@ -122,9 +157,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Kaoru/">Kaoru</category>
       
@@ -281,13 +316,13 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Hajime/">Hajime</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Yuta/">Yuta</category>
       
@@ -298,35 +333,6 @@
       
       
       <comments>https://310mc.github.io/management_story/midori/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!] Mitsuru Tenma – Management Story</title>
-      <link>https://310mc.github.io/management_story/mitsuru/</link>
-      <guid>https://310mc.github.io/management_story/mitsuru/</guid>
-      <pubDate>Thu, 11 Nov 2021 07:30:00 GMT</pubDate>
-      
-      <description>[ES!] Mitsuru&#39;s Management Stories, featuring Madara.</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Mitsuru/">Mitsuru</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Management-Story/">Management Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
-      
-      
-      <comments>https://310mc.github.io/management_story/mitsuru/#disqus_thread</comments>
       
     </item>
     
@@ -358,6 +364,35 @@
       
       
       <comments>https://310mc.github.io/management_story/shinobu/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>[ES!] Mitsuru Tenma – Management Story</title>
+      <link>https://310mc.github.io/management_story/mitsuru/</link>
+      <guid>https://310mc.github.io/management_story/mitsuru/</guid>
+      <pubDate>Thu, 11 Nov 2021 07:30:00 GMT</pubDate>
+      
+      <description>[ES!] Mitsuru&#39;s Management Stories, featuring Madara.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Mitsuru/">Mitsuru</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Management-Story/">Management Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      
+      <comments>https://310mc.github.io/management_story/mitsuru/#disqus_thread</comments>
       
     </item>
     
@@ -502,11 +537,11 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
       
@@ -618,35 +653,6 @@
       
       
       <comments>https://310mc.github.io/party_animal_invasion/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!!] Comet Show</title>
-      <link>https://310mc.github.io/comet_show/</link>
-      <guid>https://310mc.github.io/comet_show/</guid>
-      <pubDate>Tue, 05 Jan 2021 06:10:00 GMT</pubDate>
-      
-      <description>[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
-      
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
-      
-      
-      <comments>https://310mc.github.io/comet_show/#disqus_thread</comments>
       
     </item>
     
