@@ -15,8 +15,37 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Thu, 11 Nov 2021 07:30:00 GMT</pubDate>
+    <pubDate>Thu, 11 Nov 2021 09:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!] Kanata Shinkai – Management Story</title>
+      <link>https://310mc.github.io/management_story/kanata/</link>
+      <guid>https://310mc.github.io/management_story/kanata/</guid>
+      <pubDate>Thu, 11 Nov 2021 09:00:00 GMT</pubDate>
+      
+      <description>[ES!] Kanata&#39;s Management Stories, featuring Tetora.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Management-Story/">Management Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      
+      <comments>https://310mc.github.io/management_story/kanata/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[ES!] Management Stories</title>
@@ -444,9 +473,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Keito/">Keito</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/Souma/">Souma</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Keito/">Keito</category>
       
       
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
@@ -604,29 +633,6 @@
       
       
       <comments>https://310mc.github.io/comet_show/minitalk/midori_2/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Comet Show – Midori Mini Talk: Worrisome Days</title>
-      <link>https://310mc.github.io/comet_show/minitalk/midori_1/</link>
-      <guid>https://310mc.github.io/comet_show/minitalk/midori_1/</guid>
-      <pubDate>Fri, 01 Jan 2021 06:00:00 GMT</pubDate>
-      
-      <description>[ES!!] Midori&#39;s first Mini Talk from Comet Show. From Anzu&#39;s POV.</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
-      
-      
-      <comments>https://310mc.github.io/comet_show/minitalk/midori_1/#disqus_thread</comments>
       
     </item>
     
