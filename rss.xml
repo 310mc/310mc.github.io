@@ -15,8 +15,37 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Thu, 11 Nov 2021 09:00:00 GMT</pubDate>
+    <pubDate>Thu, 11 Nov 2021 13:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!] Izumi Sena – Management Story</title>
+      <link>https://310mc.github.io/management_story/izumi/</link>
+      <guid>https://310mc.github.io/management_story/izumi/</guid>
+      <pubDate>Thu, 11 Nov 2021 13:00:00 GMT</pubDate>
+      
+      <description>[ES!] Izumi&#39;s Management Stories, featuring Chiaki.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Izumi/">Izumi</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Management-Story/">Management Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      
+      <comments>https://310mc.github.io/management_story/izumi/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[ES!] Kanata Shinkai – Management Story</title>
@@ -234,6 +263,35 @@
     </item>
     
     <item>
+      <title>[ES!] Mitsuru Tenma – Management Story</title>
+      <link>https://310mc.github.io/management_story/mitsuru/</link>
+      <guid>https://310mc.github.io/management_story/mitsuru/</guid>
+      <pubDate>Thu, 11 Nov 2021 07:30:00 GMT</pubDate>
+      
+      <description>[ES!] Mitsuru&#39;s Management Stories, featuring Madara.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Mitsuru/">Mitsuru</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Management-Story/">Management Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      
+      <comments>https://310mc.github.io/management_story/mitsuru/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>[ES!] Midori Takamine – Management Story</title>
       <link>https://310mc.github.io/management_story/midori/</link>
       <guid>https://310mc.github.io/management_story/midori/</guid>
@@ -269,35 +327,6 @@
       
       
       <comments>https://310mc.github.io/management_story/midori/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!] Mitsuru Tenma – Management Story</title>
-      <link>https://310mc.github.io/management_story/mitsuru/</link>
-      <guid>https://310mc.github.io/management_story/mitsuru/</guid>
-      <pubDate>Thu, 11 Nov 2021 07:30:00 GMT</pubDate>
-      
-      <description>[ES!] Mitsuru&#39;s Management Stories, featuring Madara.</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Mitsuru/">Mitsuru</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Management-Story/">Management Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
-      
-      
-      <comments>https://310mc.github.io/management_story/mitsuru/#disqus_thread</comments>
       
     </item>
     
@@ -338,7 +367,7 @@
       <guid>https://310mc.github.io/management_story/subaru/</guid>
       <pubDate>Thu, 11 Nov 2021 07:30:00 GMT</pubDate>
       
-      <description>[ES!] Subaru&#39;s Management Stories, featuring Chiaki, Mao, Midori.</description>
+      <description>[ES!] Subaru&#39;s Management Stories, featuring Chiaki, Mao, and Midori.</description>
       
       
       
@@ -481,9 +510,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Keito/">Keito</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/Souma/">Souma</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Keito/">Keito</category>
       
       
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
@@ -618,29 +647,6 @@
       
       
       <comments>https://310mc.github.io/comet_show/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Comet Show – Midori Mini Talk: Topics About That Guy</title>
-      <link>https://310mc.github.io/comet_show/minitalk/midori_2/</link>
-      <guid>https://310mc.github.io/comet_show/minitalk/midori_2/</guid>
-      <pubDate>Fri, 01 Jan 2021 06:01:00 GMT</pubDate>
-      
-      <description>[ES!!] Midori&#39;s second Mini Talk from Comet Show. From Anzu&#39;s POV.</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
-      
-      
-      <comments>https://310mc.github.io/comet_show/minitalk/midori_2/#disqus_thread</comments>
       
     </item>
     
