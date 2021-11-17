@@ -15,8 +15,43 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Wed, 17 Nov 2021 15:00:00 GMT</pubDate>
+    <pubDate>Wed, 17 Nov 2021 15:30:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!] Beasts (In Progress!)</title>
+      <link>https://310mc.github.io/beasts/</link>
+      <guid>https://310mc.github.io/beasts/</guid>
+      <pubDate>Wed, 17 Nov 2021 15:30:00 GMT</pubDate>
+      
+      <description>[ES!] Arashi receives a lot of praise for her manly photoshoot. Tetora becomes inspired by the photos, and rushes to ask Arashi for advice on how to be more manly…</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Arashi/">Arashi</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Ritsu/">Ritsu</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      
+      <comments>https://310mc.github.io/beasts/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Submarine – Ruthless Battlefield, Okinawa</title>
@@ -83,9 +118,9 @@
       <category domain="https://310mc.github.io/categories/Enstars/Mika/">Mika</category>
       
       
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
-      
       <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
       
       
       <comments>https://310mc.github.io/gang/#disqus_thread</comments>
@@ -105,18 +140,18 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Subaru/">Subaru</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Keito/">Keito</category>
       
       
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
-      
       <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
       
       
       <comments>https://310mc.github.io/senpai_turned_into_a_dog/#disqus_thread</comments>
@@ -209,9 +244,9 @@
       <category domain="https://310mc.github.io/categories/Enstars/Akatsuki/">Akatsuki</category>
       
       
-      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
-      
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
       
       <category domain="https://310mc.github.io/tags/Main-Story/">Main Story</category>
       
@@ -335,11 +370,11 @@
       <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
       
       
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
       <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
       
       <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
       
       
       <comments>https://310mc.github.io/comet_show/#disqus_thread</comments>
@@ -416,9 +451,9 @@
       <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
       
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
       
       
       <comments>https://310mc.github.io/comet_show/epilogue/#disqus_thread</comments>
@@ -449,9 +484,9 @@
       <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
       
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
       
       
       <comments>https://310mc.github.io/comet_show/second_half/#disqus_thread</comments>
@@ -542,11 +577,11 @@
       <category domain="https://310mc.github.io/categories/Enstars/Alkaloid/">Alkaloid</category>
       
       
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
       <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
       
       <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
       
       
       <comments>https://310mc.github.io/motor_show/#disqus_thread</comments>
@@ -585,9 +620,9 @@
       <category domain="https://310mc.github.io/categories/Enstars/Tatsumi/">Tatsumi</category>
       
       
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
       
       
       <comments>https://310mc.github.io/motor_show/epilogue/#disqus_thread</comments>
@@ -626,49 +661,12 @@
       <category domain="https://310mc.github.io/categories/Enstars/Tatsumi/">Tatsumi</category>
       
       
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
       
       
       <comments>https://310mc.github.io/motor_show/muddy_road/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Motor Show – Progress at a Snail&#39;s Pace</title>
-      <link>https://310mc.github.io/motor_show/snails_pace/</link>
-      <guid>https://310mc.github.io/motor_show/snails_pace/</guid>
-      <pubDate>Thu, 30 Apr 2020 06:05:00 GMT</pubDate>
-      
-      <description>[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Hiiro/">Hiiro</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Aira/">Aira</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Mayoi/">Mayoi</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tatsumi/">Tatsumi</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
-      
-      
-      <comments>https://310mc.github.io/motor_show/snails_pace/#disqus_thread</comments>
       
     </item>
     
