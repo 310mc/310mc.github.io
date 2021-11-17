@@ -15,8 +15,43 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Tue, 16 Nov 2021 16:00:00 GMT</pubDate>
+    <pubDate>Tue, 16 Nov 2021 20:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!!] Gang</title>
+      <link>https://310mc.github.io/gang/</link>
+      <guid>https://310mc.github.io/gang/</guid>
+      <pubDate>Tue, 16 Nov 2021 20:00:00 GMT</pubDate>
+      
+      <description>[ES!] Yumenosaki receives a warning akin to a terrorist threat, and during that time, Yuzuru returns to school at night to pick up something Tori forgot…</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Yuzuru/">Yuzuru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Ibara/">Ibara</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Mika/">Mika</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      
+      
+      <comments>https://310mc.github.io/gang/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[ES!] Zodiac – Senpai Turned Into A Dog!?</title>
@@ -634,33 +669,6 @@
       
       
       <comments>https://310mc.github.io/motor_show/snails_pace/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Motor Show – Prologue</title>
-      <link>https://310mc.github.io/motor_show/prologue/</link>
-      <guid>https://310mc.github.io/motor_show/prologue/</guid>
-      <pubDate>Thu, 30 Apr 2020 06:00:00 GMT</pubDate>
-      
-      <description>[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Hiiro/">Hiiro</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
-      
-      
-      <comments>https://310mc.github.io/motor_show/prologue/#disqus_thread</comments>
       
     </item>
     
