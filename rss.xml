@@ -15,8 +15,53 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Sat, 20 Nov 2021 19:00:00 GMT</pubDate>
+    <pubDate>Sat, 20 Nov 2021 21:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!] Kanata Shinkai Birthday</title>
+      <link>https://310mc.github.io/birthday_story/kanata_es/</link>
+      <guid>https://310mc.github.io/birthday_story/kanata_es/</guid>
+      <pubDate>Sat, 20 Nov 2021 21:00:00 GMT</pubDate>
+      
+      <description>[ES!] Kanata&#39;s birthday content from Enstars! Era.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kaoru/">Kaoru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Natsume/">Natsume</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Wataru/">Wataru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Souma/">Souma</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      <category domain="https://310mc.github.io/tags/Birthday-Story/">Birthday Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-K-K/">Happy Elements K.K</category>
+      
+      
+      <comments>https://310mc.github.io/birthday_story/kanata_es/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[ES!] Chiaki Morisawa Birthday</title>
@@ -650,47 +695,6 @@
       
       
       <comments>https://310mc.github.io/motor_show/epilogue/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Motor Show – Muddy Road</title>
-      <link>https://310mc.github.io/motor_show/muddy_road/</link>
-      <guid>https://310mc.github.io/motor_show/muddy_road/</guid>
-      <pubDate>Thu, 30 Apr 2020 06:08:00 GMT</pubDate>
-      
-      <description>[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Aira/">Aira</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Hiiro/">Hiiro</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Mayoi/">Mayoi</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tatsumi/">Tatsumi</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
-      
-      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
-      
-      
-      <comments>https://310mc.github.io/motor_show/muddy_road/#disqus_thread</comments>
       
     </item>
     
