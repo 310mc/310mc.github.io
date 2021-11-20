@@ -15,47 +15,16 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Thu, 18 Nov 2021 15:00:00 GMT</pubDate>
+    <pubDate>Sat, 20 Nov 2021 19:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>[ES!] Biblio</title>
-      <link>https://310mc.github.io/biblio/</link>
-      <guid>https://310mc.github.io/biblio/</guid>
-      <pubDate>Thu, 18 Nov 2021 15:00:00 GMT</pubDate>
+      <title>[ES!] Chiaki Morisawa Birthday</title>
+      <link>https://310mc.github.io/birthday_story/chiaki_es/</link>
+      <guid>https://310mc.github.io/birthday_story/chiaki_es/</guid>
+      <pubDate>Sat, 20 Nov 2021 19:00:00 GMT</pubDate>
       
-      <description>[ES!] Midori and Hajime hear a loud thud and come rushing to see what had happened, only to find Tsumugi collapsed under the bookshelves in the library…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Hajime/">Hajime</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tsumugi/">Tsumugi</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Keito/">Keito</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
-      
-      
-      <comments>https://310mc.github.io/biblio/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!] Beasts (In Progress!)</title>
-      <link>https://310mc.github.io/beasts/</link>
-      <guid>https://310mc.github.io/beasts/</guid>
-      <pubDate>Wed, 17 Nov 2021 15:30:00 GMT</pubDate>
-      
-      <description>[ES!] Arashi receives a lot of praise for her manly photoshoot. Tetora becomes inspired by the photos, and rushes to ask Arashi for advice on how to be more manly…</description>
+      <description>[ES!] Chiaki&#39;s birthday content from Enstars! Era.</description>
       
       
       
@@ -68,19 +37,74 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Arashi/">Arashi</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Ritsu/">Ritsu</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Mao/">Mao</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Subaru/">Subaru</category>
       
       
-      <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
       
-      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      <category domain="https://310mc.github.io/tags/Birthday-Story/">Birthday Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-K-K/">Happy Elements K.K</category>
       
       
-      <comments>https://310mc.github.io/beasts/#disqus_thread</comments>
+      <comments>https://310mc.github.io/birthday_story/chiaki_es/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>[ES!!] Chiaki Morisawa Birthday</title>
+      <link>https://310mc.github.io/birthday_story/chiaki_es2/</link>
+      <guid>https://310mc.github.io/birthday_story/chiaki_es2/</guid>
+      <pubDate>Sat, 20 Nov 2021 19:00:00 GMT</pubDate>
+      
+      <description>[ES!!] Chiaki&#39;s birthday content from Enstars!! Era.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Adonis/">Adonis</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Subaru/">Subaru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Hiiro/">Hiiro</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      <category domain="https://310mc.github.io/tags/Birthday-Story/">Birthday Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Happy-Elements-K-K/">Happy Elements K.K</category>
+      
+      
+      <comments>https://310mc.github.io/birthday_story/chiaki_es2/#disqus_thread</comments>
       
     </item>
     
@@ -124,29 +148,29 @@
     </item>
     
     <item>
-      <title>[ES!] Gang</title>
-      <link>https://310mc.github.io/gang/</link>
-      <guid>https://310mc.github.io/gang/</guid>
-      <pubDate>Wed, 17 Nov 2021 12:00:00 GMT</pubDate>
+      <title>[ES!] Beasts (In Progress!)</title>
+      <link>https://310mc.github.io/beasts/</link>
+      <guid>https://310mc.github.io/beasts/</guid>
+      <pubDate>Wed, 17 Nov 2021 06:00:00 GMT</pubDate>
       
-      <description>[ES!] Yumenosaki receives a warning akin to a terrorist threat, and during that time, Yuzuru returns to school at night to pick up something Tori forgot…</description>
+      <description>[ES!] Arashi receives a lot of praise for her manly photoshoot. Tetora becomes inspired by the photos, and rushes to ask Arashi for advice on how to be more manly…</description>
       
       
       
       
       <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Arashi/">Arashi</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Yuzuru/">Yuzuru</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Madara/">Madara</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/Ibara/">Ibara</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Mika/">Mika</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ritsu/">Ritsu</category>
       
       
       <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
@@ -154,7 +178,7 @@
       <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
       
       
-      <comments>https://310mc.github.io/gang/#disqus_thread</comments>
+      <comments>https://310mc.github.io/beasts/#disqus_thread</comments>
       
     </item>
     
