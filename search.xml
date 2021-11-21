@@ -246,55 +246,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Birthday Story Directory</title>
-    <url>/birthday_story/</url>
-    <content><![CDATA[Birthday story translations by 310mc.
-
-ES!
-
-
-
-Chiaki
-Kanata
-Midori
-
-
-
-
-
-
-
-
-
-
-ES!!
-
-
-
-Chiaki
-Midori
-
-
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>Enstars</category>
-        <category>ES!</category>
-        <category>ES!!</category>
-      </categories>
-      <tags>
-        <tag>Birthday Story</tag>
-        <tag>Happy Elements Staff</tag>
-        <tag>Story Index</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>[ES!!] Together, We Are the Bodybuilding Bros!</title>
     <url>/bodybuilding_bros/</url>
     <content><![CDATA[
@@ -449,6 +400,55 @@ The title is a reference to Precure’s opening theme song, “Together We Are P
       <tags>
         <tag>Idol Story</tag>
         <tag>Umeda Chitose</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Birthday Story Directory</title>
+    <url>/birthday_story/</url>
+    <content><![CDATA[Birthday story translations by 310mc.
+
+ES!
+
+
+
+Chiaki
+Kanata
+Midori
+
+
+
+
+
+
+
+
+
+
+ES!!
+
+
+
+Chiaki
+Midori
+
+
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>Enstars</category>
+        <category>ES!</category>
+        <category>ES!!</category>
+      </categories>
+      <tags>
+        <tag>Birthday Story</tag>
+        <tag>Happy Elements Staff</tag>
+        <tag>Story Index</tag>
       </tags>
   </entry>
   <entry>
@@ -3081,8 +3081,8 @@ Translation Notes
         <category>Enstars</category>
         <category>Midori</category>
         <category>ES!</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Kaoru</category>
         <category>Shu</category>
@@ -3365,8 +3365,8 @@ there&#39;s no need to rush to the finish line, so let&#39;s take it easy~♪
       <categories>
         <category>Enstars</category>
         <category>ES!</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
       </categories>
       <tags>
         <tag>Happy Elements Staff</tag>
@@ -3875,8 +3875,8 @@ With Chiaki
         <category>Enstars</category>
         <category>Midori</category>
         <category>ES!</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Hajime</category>
         <category>Shinobu</category>
@@ -4496,8 +4496,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
       </categories>
@@ -4655,8 +4655,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
       </categories>
@@ -4822,8 +4822,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
       </categories>
@@ -8104,8 +8104,8 @@ Birthday Skill: Today is Chiaki's birthday. More passionately and energetically 
         <category>Enstars</category>
         <category>Midori</category>
         <category>ES!</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
         <category>Madara</category>
@@ -8455,8 +8455,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>ES!!</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
@@ -8521,6 +8521,21 @@ Translation Notes
     
 
 
+Birthday Quote
+2016
+ufufu, today is my birthday~♪ what a special day…♪
+
+2017
+fufu, i&#39;m sooo happy that you celebrated my birthday~♪ what deep-sea fish would you like as repayment…? ♪
+
+2018
+you&#39;ll celebrate my birthday with me? then let&#39;s sing and dance together~♪
+
+2019
+thank you~! you prepared for me fishies to eat, didn&#39;t you? that&#39;s so wonderfully kind of you.
+
+Birthday Greeting
+i&#39;m so, so happy to have my birthday celebrated. birthdays are fun, aren&#39;t they~? puka, puka…♪
 
 Birthday Course
  1/3
@@ -8574,7 +8589,7 @@ you look surprised. heheh~ i can see through everything, you know~
 			
             	…oh? i sound like a villain now, don’t i?
 chiaki will scold me for this… he&#39;ll say, &quot;ryuseitai are heroes of justice!&quot;
-mhm, mhm. i must be much more proper, so that i can be a good example to the children…♪
+mhm, mhm. i have to be much more proper, so that i can be a good example to the children…♪
                 
 
 			
@@ -8583,7 +8598,7 @@ mhm, mhm. i must be much more proper, so that i can be a good example to the chi
 
  2/3
 
-the blue flames are the mark of mystery! i have come from the blue sea~♪
+the blue flames are the mark of mystery! i&#39;ve come from the blue sea~♪
 today&#39;s protagonist! shinkai kanata…☆
 ahaha~ what do you think? it&#39;s a version specifically just for today…♪
 
@@ -8762,15 +8777,37 @@ But eh, you’re probably happy with it being this Way. Go ahead and try out the
 Fufufu. The rest of the guests here will be unhappy if you keep having fun with us Only.
 I’ll be more respectful and keep it Down, and tell the rest of my niisans to do the Same. So just enjoy your day as much as you want, Kanata-niisan~♪
 
+Birthday Present
 
+When gifting Kanata a flower box…
+puka, puka…♪ there are so many pretty flowers~♪ i&#39;m sure it&#39;d look even more beautiful if i laid them ontop of water~
+ufufu, but since they&#39;re so fresh, i&#39;ll just keep them in a vase for now. thank you so much, anzu-san~♪
+
+Birthday Cake
+
+Fruit Tart (HAPPY)
+
+there are a lot of fruits in different colors on this cake. it kind of looks like ryuseitai, doesn&#39;t it? ehehe…♪
+
+Shortcake (GOOD)
+
+i don&#39;t eat fruit and cake that much, but today is a special day. i&#39;ll have a bite~…♪
+
+Chocolate Cake (OK)
+
+this cake has a strange shape to it, doesn&#39;t it~? ahh, it&#39;s meant to look like a fish, i see~
+
+Birthday Motion
+
+Birthday Skill: Today is Kanata's birthday. With a heart that adores the ocean, and is as vast as one, &quot;i'll do my best today, too…♪&quot;
 
 ]]></content>
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
         <category>ES!</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
         <category>Kaoru</category>
@@ -9128,8 +9165,8 @@ Translation Notes
         <category>Enstars</category>
         <category>Midori</category>
         <category>ES!</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Hajime</category>
         <category>Shinobu</category>
@@ -9649,8 +9686,8 @@ Oh man, I&#39;m so sorry you went through the trouble of getting me a present.
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>ES!!</category>
         <category>Chiaki</category>
         <category>Hajime</category>
@@ -10039,8 +10076,8 @@ Nah, forget what I just said. Let’s instead go down the path together, while h
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
         <category>Aira</category>
@@ -10371,8 +10408,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
         <category>Kuro</category>
@@ -10883,8 +10920,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
       </categories>
@@ -11401,8 +11438,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
         <category>Aira</category>
@@ -14348,8 +14385,8 @@ Translation Notes
       <categories>
         <category>Enstars</category>
         <category>Midori</category>
-        <category>Kanata</category>
         <category>Tetora</category>
+        <category>Kanata</category>
         <category>Chiaki</category>
         <category>Shinobu</category>
       </categories>
