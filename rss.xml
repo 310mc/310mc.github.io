@@ -15,8 +15,31 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Thu, 09 Dec 2021 21:00:00 GMT</pubDate>
+    <pubDate>Thu, 09 Dec 2021 21:01:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Ninja Clan – Chiaki Mini Talk: Sightseeing the Historical Village</title>
+      <link>https://310mc.github.io/ninja_clan/minitalk/chiaki_2/</link>
+      <guid>https://310mc.github.io/ninja_clan/minitalk/chiaki_2/</guid>
+      <pubDate>Thu, 09 Dec 2021 21:01:00 GMT</pubDate>
+      
+      <description>[ES!!] Chiaki&#39;s second Mini Talk from Ninja Clan. From Anzu&#39;s POV.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      
+      <comments>https://310mc.github.io/ninja_clan/minitalk/chiaki_2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Ninja Clan – Chiaki Mini Talk: An Invasion from a Formidable Enemy</title>
@@ -38,29 +61,6 @@
       
       
       <comments>https://310mc.github.io/ninja_clan/minitalk/chiaki_1/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Ninja Clan – Chiaki Mini Talk: Sightseeing the Historical Village</title>
-      <link>https://310mc.github.io/ninja_clan/minitalk/chiaki_2/</link>
-      <guid>https://310mc.github.io/ninja_clan/minitalk/chiaki_2/</guid>
-      <pubDate>Thu, 09 Dec 2021 21:00:00 GMT</pubDate>
-      
-      <description>[ES!!] Chiaki&#39;s second Mini Talk from Ninja Clan. From Anzu&#39;s POV.</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
-      
-      
-      <comments>https://310mc.github.io/ninja_clan/minitalk/chiaki_2/#disqus_thread</comments>
       
     </item>
     
