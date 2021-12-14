@@ -15,8 +15,37 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Fri, 10 Dec 2021 06:00:00 GMT</pubDate>
+    <pubDate>Tue, 14 Dec 2021 18:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!!] Ushimairi, Part Two (In Progress!)</title>
+      <link>https://310mc.github.io/ushimairi_p2/</link>
+      <guid>https://310mc.github.io/ushimairi_p2/</guid>
+      <pubDate>Tue, 14 Dec 2021 18:00:00 GMT</pubDate>
+      
+      <description>[ES!!] After Alkaloid manages to clear out their old dormitory and move in with their new roommates, a wooden carving of an ox seems to have been left behind in their old dormitory. Yuzuru attempts to look for its owner to no avail…</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Alkaloid/">Alkaloid</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
+      
+      <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Kino-Seitaro/">Kino Seitaro</category>
+      
+      
+      <comments>https://310mc.github.io/ushimairi_p2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[Enstars!!] Ninja Clan</title>
@@ -574,37 +603,6 @@
       
       
       <comments>https://310mc.github.io/climax/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!!] Soleil</title>
-      <link>https://310mc.github.io/soleil/</link>
-      <guid>https://310mc.github.io/soleil/</guid>
-      <pubDate>Sat, 30 Oct 2021 12:00:00 GMT</pubDate>
-      
-      <description>[ES!!] Mitsuru helps out Tsumugi with preparations…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Mitsuru/">Mitsuru</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Tsumugi/">Tsumugi</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Nishioka-Maiko/">Nishioka Maiko</category>
-      
-      <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
-      
-      
-      <comments>https://310mc.github.io/soleil/#disqus_thread</comments>
       
     </item>
     
