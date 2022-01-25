@@ -15,8 +15,39 @@
     <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
-    <pubDate>Fri, 24 Dec 2021 23:50:00 GMT</pubDate>
+    <pubDate>Tue, 25 Jan 2022 06:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[ES!!] Small Universe</title>
+      <link>https://310mc.github.io/smalluniverse/</link>
+      <guid>https://310mc.github.io/smalluniverse/</guid>
+      <pubDate>Tue, 25 Jan 2022 06:00:00 GMT</pubDate>
+      
+      <description>[ES!!] Translation of a Sora Feature Scout Story, featuring Hinata and Midori. This is only the first half of the story.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Hinata/">Hinata</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/Sora/">Sora</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Yuumasu/">Yuumasu</category>
+      
+      
+      <comments>https://310mc.github.io/smalluniverse/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[ES!] Christmas Party in Yumenosaki Academy</title>
@@ -606,41 +637,6 @@
       
       
       <comments>https://310mc.github.io/submarine/ruthless_battlefield/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!!] me, the sea, and everyone with me</title>
-      <link>https://310mc.github.io/me_the_sea_and_everyone_with_me/</link>
-      <guid>https://310mc.github.io/me_the_sea_and_everyone_with_me/</guid>
-      <pubDate>Wed, 10 Nov 2021 06:00:00 GMT</pubDate>
-      
-      <description>[ES!!] Translation of a Kanata Feature Scout Story, featuring Rei, Kaoru, Natsume, and Chiaki. Kaoru finds seashells and sequins on the floor, and follows its trail…</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/ES/">ES!!</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Kaoru/">Kaoru</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Rei/">Rei</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/Natsume/">Natsume</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
-      
-      <category domain="https://310mc.github.io/tags/Umeda-Chitose/">Umeda Chitose</category>
-      
-      
-      <comments>https://310mc.github.io/me_the_sea_and_everyone_with_me/#disqus_thread</comments>
       
     </item>
     
