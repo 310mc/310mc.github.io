@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>With the five of us together...!</title>
-    <link>https://310mc.github.io/temp/</link>
+    <link>https://310mc.github.io/</link>
     
     <image>
-      <url>https://310mc.github.io/temp/icon.png</url>
+      <url>https://310mc.github.io/icon.png</url>
       <title>With the five of us together...!</title>
-      <link>https://310mc.github.io/temp/</link>
+      <link>https://310mc.github.io/</link>
     </image>
     
-    <atom:link href="https://310mc.github.io/temp/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://310mc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>310mc Fan Translations</description>
     <pubDate>Tue, 01 Jan 2030 06:00:00 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>Translation Guidelines</title>
-      <link>https://310mc.github.io/temp/guideline/</link>
-      <guid>https://310mc.github.io/temp/guideline/</guid>
+      <link>https://310mc.github.io/guideline/</link>
+      <guid>https://310mc.github.io/guideline/</guid>
       <pubDate>Tue, 01 Jan 2030 06:00:00 GMT</pubDate>
       
       <description>Translation Guidelines for 310mc&#39;s translations.</description>
@@ -31,14 +31,14 @@
       
       
       
-      <comments>https://310mc.github.io/temp/guideline/#disqus_thread</comments>
+      <comments>https://310mc.github.io/guideline/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Selection 10 Unit Project Comments (Ryuseitai only!)</title>
-      <link>https://310mc.github.io/temp/selection_10_unit_project/</link>
-      <guid>https://310mc.github.io/temp/selection_10_unit_project/</guid>
+      <link>https://310mc.github.io/selection_10_unit_project/</link>
+      <guid>https://310mc.github.io/selection_10_unit_project/</guid>
       <pubDate>Sat, 22 Jun 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of the “Particular Point of Interest” and “Image of Oneself” for Ryuseitai, from the Selection 10 Unit Project.</description>
@@ -46,40 +46,40 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kanata/">Kanata</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Shinobu/">Shinobu</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/">Ryuseitai</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Extra/">Extra</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       
-      <comments>https://310mc.github.io/temp/selection_10_unit_project/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Extra/">Extra</category>
+      
+      
+      <comments>https://310mc.github.io/selection_10_unit_project/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] 2024 Tetora Nagumo Birthday</title>
-      <link>https://310mc.github.io/temp/birthday_story/tetora/2024/</link>
-      <guid>https://310mc.github.io/temp/birthday_story/tetora/2024/</guid>
+      <link>https://310mc.github.io/birthday_story/tetora/2024/</link>
+      <guid>https://310mc.github.io/birthday_story/tetora/2024/</guid>
       <pubDate>Sat, 15 Jun 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of Tetora&#39;s 2024 birthday content from Enstars!! Era.</description>
@@ -87,32 +87,32 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Birthday-Story/">Birthday Story</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Mini-Talk/">Mini Talk</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
       
-      <comments>https://310mc.github.io/temp/birthday_story/tetora/2024/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      <category domain="https://310mc.github.io/tags/Birthday-Story/">Birthday Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      
+      <comments>https://310mc.github.io/birthday_story/tetora/2024/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] 2024 Shinobu Sengoku Birthday</title>
-      <link>https://310mc.github.io/temp/birthday_story/shinobu/2024/</link>
-      <guid>https://310mc.github.io/temp/birthday_story/shinobu/2024/</guid>
+      <link>https://310mc.github.io/birthday_story/shinobu/2024/</link>
+      <guid>https://310mc.github.io/birthday_story/shinobu/2024/</guid>
       <pubDate>Sun, 09 Jun 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of Shinobu&#39;s 2024 birthday content from Enstars!! Era.</description>
@@ -120,32 +120,32 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Shinobu/">Shinobu</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Birthday-Story/">Birthday Story</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Mini-Talk/">Mini Talk</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
       
-      <comments>https://310mc.github.io/temp/birthday_story/shinobu/2024/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      <category domain="https://310mc.github.io/tags/Birthday-Story/">Birthday Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      
+      <comments>https://310mc.github.io/birthday_story/shinobu/2024/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] 9th Anniversary</title>
-      <link>https://310mc.github.io/temp/anniversary/9th/</link>
-      <guid>https://310mc.github.io/temp/anniversary/9th/</guid>
+      <link>https://310mc.github.io/anniversary/9th/</link>
+      <guid>https://310mc.github.io/anniversary/9th/</guid>
       <pubDate>Sun, 28 Apr 2024 07:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of 9th Anniversary Ryuseitai content.</description>
@@ -153,42 +153,42 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kanata/">Kanata</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Shinobu/">Shinobu</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/">Ryuseitai</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Extra/">Extra</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       
-      <comments>https://310mc.github.io/temp/anniversary/9th/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      <category domain="https://310mc.github.io/tags/Extra/">Extra</category>
+      
+      
+      <comments>https://310mc.github.io/anniversary/9th/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Fuyume Hanamura – Idol Story 2</title>
-      <link>https://310mc.github.io/temp/idol_story/fuyume_2/</link>
-      <guid>https://310mc.github.io/temp/idol_story/fuyume_2/</guid>
+      <link>https://310mc.github.io/idol_story/fuyume_2/</link>
+      <guid>https://310mc.github.io/idol_story/fuyume_2/</guid>
       <pubDate>Sun, 28 Apr 2024 06:03:00 GMT</pubDate>
       
       <description>[ES!!] Translation of Fuyume’s Idol Story 2, featuring Midori.</description>
@@ -196,32 +196,32 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Fuyume/">Fuyume</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Akira/">Akira</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Idol-Story/">Idol Story</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Fuyume/">Fuyume</category>
       
       
-      <comments>https://310mc.github.io/temp/idol_story/fuyume_2/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      
+      <comments>https://310mc.github.io/idol_story/fuyume_2/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Ibuki Taki – Idol Story 2</title>
-      <link>https://310mc.github.io/temp/idol_story/ibuki_2/</link>
-      <guid>https://310mc.github.io/temp/idol_story/ibuki_2/</guid>
+      <link>https://310mc.github.io/idol_story/ibuki_2/</link>
+      <guid>https://310mc.github.io/idol_story/ibuki_2/</guid>
       <pubDate>Sun, 28 Apr 2024 06:01:00 GMT</pubDate>
       
       <description>[ES!!] Translation of Ibuki’s Idol Story 2, featuring Tetora and Hiiro.</description>
@@ -229,34 +229,34 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Hiiro/">Hiiro</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Hiiro/">Hiiro</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ibuki/">Ibuki</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Akira/">Akira</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Idol-Story/">Idol Story</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ibuki/">Ibuki</category>
       
       
-      <comments>https://310mc.github.io/temp/idol_story/ibuki_2/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      
+      <comments>https://310mc.github.io/idol_story/ibuki_2/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Ibuki Taki – Idol Story 1</title>
-      <link>https://310mc.github.io/temp/idol_story/ibuki_1/</link>
-      <guid>https://310mc.github.io/temp/idol_story/ibuki_1/</guid>
+      <link>https://310mc.github.io/idol_story/ibuki_1/</link>
+      <guid>https://310mc.github.io/idol_story/ibuki_1/</guid>
       <pubDate>Sun, 28 Apr 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of Ibuki’s Idol Story 1.</description>
@@ -264,30 +264,30 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ibuki/">Ibuki</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Akira/">Akira</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Idol-Story/">Idol Story</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ibuki/">Ibuki</category>
       
       
-      <comments>https://310mc.github.io/temp/idol_story/ibuki_1/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      
+      <comments>https://310mc.github.io/idol_story/ibuki_1/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] True To Myself, Taking A Step Forward</title>
-      <link>https://310mc.github.io/temp/true_to_myself_taking_a_step_forward/</link>
-      <guid>https://310mc.github.io/temp/true_to_myself_taking_a_step_forward/</guid>
+      <link>https://310mc.github.io/true_to_myself_taking_a_step_forward/</link>
+      <guid>https://310mc.github.io/true_to_myself_taking_a_step_forward/</guid>
       <pubDate>Thu, 25 Apr 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of a Midori Feature Scout story, featuring Mitsuru and Chiaki. Unable to think up any ideas, Midori struggles with his Feature Live…</description>
@@ -295,34 +295,34 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Mitsuru/">Mitsuru</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Idol-Story/">Idol Story</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Suika/">Suika</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Mitsuru/">Mitsuru</category>
       
       
-      <comments>https://310mc.github.io/temp/true_to_myself_taking_a_step_forward/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Suika/">Suika</category>
+      
+      
+      <comments>https://310mc.github.io/true_to_myself_taking_a_step_forward/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Misshapen Masterpiece</title>
-      <link>https://310mc.github.io/temp/misshapen_masterpiece/</link>
-      <guid>https://310mc.github.io/temp/misshapen_masterpiece/</guid>
+      <link>https://310mc.github.io/misshapen_masterpiece/</link>
+      <guid>https://310mc.github.io/misshapen_masterpiece/</guid>
       <pubDate>Sat, 30 Mar 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Translation of a Chiaki Feature Scout story, featuring Kuro. Chiaki’s tracksuit got torn again in a different area. He goes to get it fixed up by Anzu…</description>
@@ -330,32 +330,32 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kuro/">Kuro</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Yuumasu/">Yuumasu</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Idol-Story/">Idol Story</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kuro/">Kuro</category>
       
       
-      <comments>https://310mc.github.io/temp/misshapen_masterpiece/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Yuumasu/">Yuumasu</category>
+      
+      <category domain="https://310mc.github.io/tags/Idol-Story/">Idol Story</category>
+      
+      
+      <comments>https://310mc.github.io/misshapen_masterpiece/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Exhibition In A Blink Of An Eye</title>
-      <link>https://310mc.github.io/temp/exhibition_in_a_blink/</link>
-      <guid>https://310mc.github.io/temp/exhibition_in_a_blink/</guid>
+      <link>https://310mc.github.io/exhibition_in_a_blink/</link>
+      <guid>https://310mc.github.io/exhibition_in_a_blink/</guid>
       <pubDate>Thu, 14 Mar 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] Rei shows Midori a painting that is said to “make one drop dead upon gazing at it three times”. It depicts the sandbank in ES, so they try to get to the bottom of the mystery…</description>
@@ -363,40 +363,40 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Rei/">Rei</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Rei/">Rei</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Mao/">Mao</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Mao/">Mao</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Makoto/">Makoto</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Makoto/">Makoto</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Mystery-Researchers-Club/">Mystery Researchers Club</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Story-Index/">Story Index</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Scout-Story/">Scout Story</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Kino-Seitaro/">Kino Seitaro</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Mystery-Researchers-Club/">Mystery Researchers Club</category>
       
       
-      <comments>https://310mc.github.io/temp/exhibition_in_a_blink/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
+      
+      <category domain="https://310mc.github.io/tags/Scout-Story/">Scout Story</category>
+      
+      <category domain="https://310mc.github.io/tags/Kino-Seitaro/">Kino Seitaro</category>
+      
+      
+      <comments>https://310mc.github.io/exhibition_in_a_blink/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Ryuseitai Album TRIP</title>
-      <link>https://310mc.github.io/temp/ryuseitai_album_trip/</link>
-      <guid>https://310mc.github.io/temp/ryuseitai_album_trip/</guid>
+      <link>https://310mc.github.io/ryuseitai_album_trip/</link>
+      <guid>https://310mc.github.io/ryuseitai_album_trip/</guid>
       <pubDate>Wed, 06 Mar 2024 07:00:00 GMT</pubDate>
       
       <description>Ryuseitai Album TRIP Translation from Ensemble Stars!! by 310mc.</description>
@@ -404,42 +404,42 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kanata/">Kanata</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Shinobu/">Shinobu</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/">Ryuseitai</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Extra/">Extra</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       
-      <comments>https://310mc.github.io/temp/ryuseitai_album_trip/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Happy-Elements-Staff/">Happy Elements Staff</category>
+      
+      <category domain="https://310mc.github.io/tags/Extra/">Extra</category>
+      
+      
+      <comments>https://310mc.github.io/ryuseitai_album_trip/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[Song] NEW DAYBREAK</title>
-      <link>https://310mc.github.io/temp/NEW_DAYBREAK/</link>
-      <guid>https://310mc.github.io/temp/NEW_DAYBREAK/</guid>
+      <link>https://310mc.github.io/NEW_DAYBREAK/</link>
+      <guid>https://310mc.github.io/NEW_DAYBREAK/</guid>
       <pubDate>Wed, 06 Mar 2024 06:10:00 GMT</pubDate>
       
       <description>Translation of NEW DAYBREAK Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album TRIP.</description>
@@ -447,40 +447,40 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kanata/">Kanata</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Shinobu/">Shinobu</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/">Ryuseitai</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Song-Lyrics/">Song Lyrics</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       
-      <comments>https://310mc.github.io/temp/NEW_DAYBREAK/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Song-Lyrics/">Song Lyrics</category>
+      
+      
+      <comments>https://310mc.github.io/NEW_DAYBREAK/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[Song] Unmei Power Energy! – Fate Power Energy! (Tetora Solo)</title>
-      <link>https://310mc.github.io/temp/unmei_power_energy/</link>
-      <guid>https://310mc.github.io/temp/unmei_power_energy/</guid>
+      <link>https://310mc.github.io/unmei_power_energy/</link>
+      <guid>https://310mc.github.io/unmei_power_energy/</guid>
       <pubDate>Wed, 06 Mar 2024 06:09:00 GMT</pubDate>
       
       <description>Translation of Unmei Power Energy! – Fate Power Energy! (Tetora Solo) Song Lyrics by 310mc. Sung by Tetora from the Ryuseitai Album TRIP.</description>
@@ -488,28 +488,28 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Tetora/">Tetora</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Song-Lyrics/">Song Lyrics</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
       
-      <comments>https://310mc.github.io/temp/unmei_power_energy/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Song-Lyrics/">Song Lyrics</category>
+      
+      
+      <comments>https://310mc.github.io/unmei_power_energy/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[Song] Green to the sky (Midori Solo)</title>
-      <link>https://310mc.github.io/temp/green_to_the_sky/</link>
-      <guid>https://310mc.github.io/temp/green_to_the_sky/</guid>
+      <link>https://310mc.github.io/green_to_the_sky/</link>
+      <guid>https://310mc.github.io/green_to_the_sky/</guid>
       <pubDate>Wed, 06 Mar 2024 06:08:00 GMT</pubDate>
       
       <description>Translation of Green to the sky (Midori Solo) Song Lyrics by 310mc. Sung by Midori from the Ryuseitai Album TRIP.</description>
@@ -517,28 +517,28 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Midori/">Midori</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Midori/">Midori</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Song-Lyrics/">Song Lyrics</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
       
-      <comments>https://310mc.github.io/temp/green_to_the_sky/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Song-Lyrics/">Song Lyrics</category>
+      
+      
+      <comments>https://310mc.github.io/green_to_the_sky/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[Song] Seisei Doudou Ouenka! – Seisei Doudou Cheer Song! (Shinobu Solo)</title>
-      <link>https://310mc.github.io/temp/seisei_doudou_ouenka/</link>
-      <guid>https://310mc.github.io/temp/seisei_doudou_ouenka/</guid>
+      <link>https://310mc.github.io/seisei_doudou_ouenka/</link>
+      <guid>https://310mc.github.io/seisei_doudou_ouenka/</guid>
       <pubDate>Wed, 06 Mar 2024 06:07:00 GMT</pubDate>
       
       <description>Translation of Seisei Doudou Ouenka! – Seisei Doudou Cheer Song! (Shinobu Solo) Song Lyrics by 310mc. Sung by Shinobu from the Shinobu Album TRIP.</description>
@@ -546,28 +546,28 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Shinobu/">Shinobu</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Song-Lyrics/">Song Lyrics</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Shinobu/">Shinobu</category>
       
       
-      <comments>https://310mc.github.io/temp/seisei_doudou_ouenka/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Song-Lyrics/">Song Lyrics</category>
+      
+      
+      <comments>https://310mc.github.io/seisei_doudou_ouenka/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[Song] Kokoro de Pittari Ai ni Naru (Chiaki Solo)</title>
-      <link>https://310mc.github.io/temp/kokoro_de_pittari_ai_ni_naru/</link>
-      <guid>https://310mc.github.io/temp/kokoro_de_pittari_ai_ni_naru/</guid>
+      <link>https://310mc.github.io/kokoro_de_pittari_ai_ni_naru/</link>
+      <guid>https://310mc.github.io/kokoro_de_pittari_ai_ni_naru/</guid>
       <pubDate>Wed, 06 Mar 2024 06:06:00 GMT</pubDate>
       
       <description>Translation of Kokoro de Pittari Ai ni Naru (Chiaki Solo) Song Lyrics by 310mc. Sung by Chiaki from the Ryuseitai Album TRIP.</description>
@@ -575,28 +575,28 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Chiaki/">Chiaki</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Song-Lyrics/">Song Lyrics</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
       
-      <comments>https://310mc.github.io/temp/kokoro_de_pittari_ai_ni_naru/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Song-Lyrics/">Song Lyrics</category>
+      
+      
+      <comments>https://310mc.github.io/kokoro_de_pittari_ai_ni_naru/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[Song] happy drops (Kanata Solo)</title>
-      <link>https://310mc.github.io/temp/happy_drops/</link>
-      <guid>https://310mc.github.io/temp/happy_drops/</guid>
+      <link>https://310mc.github.io/happy_drops/</link>
+      <guid>https://310mc.github.io/happy_drops/</guid>
       <pubDate>Wed, 06 Mar 2024 06:05:00 GMT</pubDate>
       
       <description>Translation of happy drops (Kanata Solo) Song Lyrics by 310mc. Sung by Kanata from the Ryuseitai Album TRIP.</description>
@@ -604,28 +604,28 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kanata/">Kanata</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Song-Lyrics/">Song Lyrics</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-1/">Year 1</category>
       
       
-      <comments>https://310mc.github.io/temp/happy_drops/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Song-Lyrics/">Song Lyrics</category>
+      
+      
+      <comments>https://310mc.github.io/happy_drops/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>[ES!!] Stella Maris – Climax Event</title>
-      <link>https://310mc.github.io/temp/stella_maris/</link>
-      <guid>https://310mc.github.io/temp/stella_maris/</guid>
+      <link>https://310mc.github.io/stella_maris/</link>
+      <guid>https://310mc.github.io/stella_maris/</guid>
       <pubDate>Tue, 23 Jan 2024 06:00:00 GMT</pubDate>
       
       <description>[ES!!] It is Kanata&#39;s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata&#39;s peculiar practice methods, but then Kanata suddenly informs them about something…</description>
@@ -633,36 +633,36 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/">1. Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/">1. Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/">ES Era</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/">ES Era</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era/ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/">Ryuseitai</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/">Ryuseitai</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/fine/">fine</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Story-Index/">Story Index</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Akira/">Akira</category>
-      
-      <category domain="https://310mc.github.io/temp/tags/Event-Story/">Event Story</category>
+      <category domain="https://310mc.github.io/categories/Enstars/fine/">fine</category>
       
       
-      <comments>https://310mc.github.io/temp/stella_maris/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Story-Index/">Story Index</category>
+      
+      <category domain="https://310mc.github.io/tags/Akira/">Akira</category>
+      
+      <category domain="https://310mc.github.io/tags/Event-Story/">Event Story</category>
+      
+      
+      <comments>https://310mc.github.io/stella_maris/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Stella Maris – Kanata Mini Talk: secrets to [leadership]</title>
-      <link>https://310mc.github.io/temp/stella_maris/minitalk/kanata_2/</link>
-      <guid>https://310mc.github.io/temp/stella_maris/minitalk/kanata_2/</guid>
+      <link>https://310mc.github.io/stella_maris/minitalk/kanata_2/</link>
+      <guid>https://310mc.github.io/stella_maris/minitalk/kanata_2/</guid>
       <pubDate>Tue, 16 Jan 2024 06:09:00 GMT</pubDate>
       
       <description>[ES!!] Kanata&#39;s second Mini Talk from Stella Maris. From Anzu&#39;s POV.</description>
@@ -670,15 +670,15 @@
       
       
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/">Enstars</category>
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
       
-      <category domain="https://310mc.github.io/temp/categories/Enstars/Kanata/">Kanata</category>
-      
-      
-      <category domain="https://310mc.github.io/temp/tags/Mini-Talk/">Mini Talk</category>
+      <category domain="https://310mc.github.io/categories/Enstars/Kanata/">Kanata</category>
       
       
-      <comments>https://310mc.github.io/temp/stella_maris/minitalk/kanata_2/#disqus_thread</comments>
+      <category domain="https://310mc.github.io/tags/Mini-Talk/">Mini Talk</category>
+      
+      
+      <comments>https://310mc.github.io/stella_maris/minitalk/kanata_2/#disqus_thread</comments>
       
     </item>
     
