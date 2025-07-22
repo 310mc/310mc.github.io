@@ -1,1 +1,1 @@
-function openModal(e){var c=document.querySelector(e),e=document.querySelector("#list-overlay");c.classList.add("active"),e.classList.add("active")}function closeModal(){document.querySelectorAll(".active").forEach(e=>{e.classList.remove("active")})}
+function openModal(o){var e=document.querySelector(o),o=document.querySelector("#list-overlay");e.classList.add("active-modal-box"),o.classList.add("active-modal-box")}function closeModal(){document.querySelectorAll(".active-modal-box").forEach(o=>{o.classList.remove("active-modal-box")})}
