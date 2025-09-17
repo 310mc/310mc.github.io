@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+
+<style>
+* {box-sizing: border-box;}
+
+body {
+	background-color: #89AEB2;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.grid-main, .grid-about {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 70vw;
+	height: 100%;
+	border-radius: 10px;
+	background: #ffffff;
+	transition: ease-in-out 0.4s;
+}
+
+.hide-box {
+	display: none;
+}
+
+.active-box {
+	display: flex;
+}
+
+.left-side {
+	flex-grow: 2;
+	margin-right: 1rem;
+	padding: 3rem;
+	letter-spacing: 0.05rem;
+	color: #66656B;
+	height: calc(100% - 20px);
+}
+
+.title {
+	font-size: 2rem;
+	font-weight: 700;
+	margin-bottom: 0.5rem;
+}
+
+.description {
+	margin-block: 1rem;
+}
+
+.btn-links {
+	display: flex;
+	gap: 10px;
+}
+
+.left-side a {
+	background-color: #1894A1;
+	color: #FFFFFF; 
+	text-decoration: none;
+	margin-block: 10px;
+	display: block;
+    width: 200px;
+    height: 4rem;
+    line-height: 4rem;
+    padding: 0rem 1rem;
+    letter-spacing: 0.05rem;
+	text-align: center;
+    font-size: 1em;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: all .4s;
+}
+.left-side a:hover {
+	background-color: #116b75;
+    transition: all .4s;
+	transform: scale(1.08);
+}
+
+figure {
+	margin: 0;
+}
+
+.right-side {
+	flex-shrink: 1;
+	display: flex;
+	width: 3000px;
+}
+
+.right-side .textimage-container {
+	position: relative;
+	margin: 0.2rem;
+}
+
+.text-gradient {
+	background: linear-gradient(to top, rgba(0, 0, 0, .8), 60%, rgba(0, 0, 0, 0));
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	padding-top: 100px;
+}
+
+.text-grid {
+	position: absolute;
+	bottom: 15px;
+	left: 16px;
+	font-size: 1.1rem;
+	color: #ffffff;
+	font-weight: 700;
+}
+
+.image-frame {
+	height: 84vh;
+    width: 100%;
+}
+
+.image-frame img, .top-side img {
+	transition: all .4s;
+	object-fit: cover;
+	height: 100%;
+    width: 100%;
+}
+
+.right-side a {
+	transition: all .4s;
+}
+.right-side a:hover img {
+	filter: brightness(55%);
+	transition: all .4s;
+}
+
+.featureidol-img img,.featureidol-img .text-gradient {
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.grid-about .right-side img {
+	border-radius: 10px;
+}
+
+.top-side {
+	display: none;
+}
+
+@media only screen and (max-width:1200px) {
+	.grid-main {
+		display: block;
+		height: 900px;
+		width: 100%;
+	}
+
+	.left-side {
+		height: 45%;
+	}
+	.left-side a {
+		padding: 0;
+	}
+
+	.right-side {
+		display: block;
+		width: 100%;
+		height: 200px;
+	}
+	.image-frame {
+		width: 100%;
+		height: 250px;
+	}
+	.image-frame img {
+		object-position: 0 -50px;
+	}
+	
+	.featureidol-img img,.featureidol-img .text-gradient {
+		border-top-right-radius: 0;
+		border-bottom-left-radius:10px;
+		border-bottom-right-radius:10px;
+	}
+
+	.btn-links {
+		font-size: 0.9rem;
+	}
+	
+/*	.top-side {
+		display: block;
+	}
+	
+	.top-side img {
+		max-height: 10rem;
+		height: 100% !important;
+		object-fit: cover;
+		object-position: top;
+		width: 100% !important;
+		border-radius: 10px;
+		padding: 0.25rem;
+	}
+		*/
+}
+
+.tabcontent {
+	display: none;
+}
+</style>
+
+</head>
+
+<body>
+<div class="tab">
+	<button class="tablinks" onclick="openBox(event, 'storylist')">Stories</button>
+	<button class="tablinks" onclick="openBox(event, 'storycontents')">Season Overview</button>
+</div>
+<div id="storylist" class="grid-main tabcontent" style="display:flex !important;">
+	<!--<div class="top-side">
+	<div><a href="eventscout"><img src="https://esmlmock.carrd.co/assets/images/image03.jpg"></a></div>
+	</div>-->
+	<div class="left-side">
+		<div class="title">Ensemble Stars Masterlist</div>
+		<div class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia pulvinar ex, non lacinia erat placerat vitae. Nam in felis mi. Nulla sit amet fermentum justo. Vivamus molestie ultrices lorem, vel aliquam ligula egestas at. Quisque vitae finibus est. Duis eu mi gravida, rutrum purus vel, ornare urna. Curabitur nunc massa, auctor non eros sit amet, sodales euismod augue.</div>
+		<div class="btn-links">
+			<a href="/">About the Masterlist</a>
+			<a href="/">Contact</a>
+		</div>
+	</div>
+	<div class="right-side">
+		<a href="eventscout">
+			<div class="textimage-container">
+				<div class="image-frame">
+					<img src="https://esmlmock.carrd.co/assets/images/image03.jpg">
+				</div>
+				<div class="text-gradient">
+					<div class="text-grid">
+						Event & Scout Translations
+					</div>
+				</div>
+			</div>
+		</a>
+		<a href="eventscout">
+			<div class="textimage-container">
+				<div class="image-frame">
+					<img src="https://esmlmock.carrd.co/assets/images/image03.jpg">
+				</div>
+				<div class="text-gradient">
+					<div class="text-grid">
+						Event & Scout Translations
+					</div>
+				</div>
+			</div>
+		</a>
+		<a href="eventscout">
+			<div class="textimage-container">
+				<div class="image-frame">
+					<img src="https://esmlmock.carrd.co/assets/images/image03.jpg">
+				</div>
+				<div class="text-gradient">
+					<div class="text-grid">
+						Event & Scout Translations
+					</div>
+				</div>
+			</div>
+		</a>
+		<a href="featureidol" class="featureidol-img">
+			<div class="textimage-container">
+				<div class="image-frame">
+					<img src="https://esmlmock.carrd.co/assets/images/image01.jpg">
+				</div>
+				<div class="text-gradient">
+					<div class="text-grid">
+						Feature & Idol Translations
+					</div>
+				</div>
+			</div>
+		</a>
+	</div>
+</div>
+<div id="storycontents" class="grid-about tabcontent">
+	<div class="left-side">
+		<div class="title">About the Masterlist</div>
+		<div class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia pulvinar ex, non lacinia erat placerat vitae. Nam in felis mi. Nulla sit amet fermentum justo. Vivamus molestie ultrices lorem, vel aliquam ligula egestas at. Quisque vitae finibus est. Duis eu mi gravida, rutrum purus vel, ornare urna. Curabitur nunc massa, auctor non eros sit amet, sodales euismod augue.</div>
+		<div class="btn-links">
+			<a href="/">Home</a>
+			<a href="/">Contact</a>
+		</div>
+	</div>
+	<div class="right-side">
+		<div class="image-frame">
+			<img src="https://esmlmock.carrd.co/assets/images/image02.png?v=f2e408e4">
+		</div>
+	</div>
+</div>
+</body>
+
+<script>
+function openBox(evt, storyHeader) {
+  var i, tabcontent;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  document.getElementById(storyHeader).style.display = "flex";
+  // evt.currentTarget.className += "active";
+}
+</script>
+</html>
