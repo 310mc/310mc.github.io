@@ -24,7 +24,7 @@
       <guid>https://310mc.github.io/guideline/</guid>
       <pubDate>Tue, 01 Jan 2030 20:00:00 GMT</pubDate>
       
-      <description>Translation Guidelines for 310mc&#39;s translations.</description>
+      <description>Translation Guidelines for 310mc’s translations.</description>
       
       
       
@@ -168,6 +168,8 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Chiaki/">Chiaki</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Adonis/">Adonis</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Hiiro/">Hiiro</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Raika/">Raika</category>
@@ -175,8 +177,6 @@
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Makoto/">Makoto</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Arashi/">Arashi</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Adonis/">Adonis</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shu/">Shu</category>
       
@@ -326,7 +326,7 @@
       <guid>https://310mc.github.io/fireworks_stream/</guid>
       <pubDate>Tue, 09 Sep 2025 06:00:00 GMT</pubDate>
       
-      <description>[ES!! Era] Ryuseitai&#39;s appearances in the ES Summer Fireworks Stream.</description>
+      <description>[ES!! Era] Ryuseitai’s appearances in the ES Summer Fireworks Stream.</description>
       
       
       
@@ -347,9 +347,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kaoru/">Kaoru</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/3-Group/">3. Group</category>
       
@@ -526,6 +526,8 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Adonis/">Adonis</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Hiyori/">Hiyori</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Makoto/">Makoto</category>
@@ -533,8 +535,6 @@
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tsumugi/">Tsumugi</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Souma/">Souma</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Adonis/">Adonis</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Leo/">Leo</category>
       
@@ -567,6 +567,8 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Adonis/">Adonis</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Hiyori/">Hiyori</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Makoto/">Makoto</category>
@@ -574,8 +576,6 @@
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tsumugi/">Tsumugi</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Souma/">Souma</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Adonis/">Adonis</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Leo/">Leo</category>
       
