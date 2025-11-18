@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>With the five of us together...!</title>
+    <title>With the five of us together…!</title>
     <link>https://310mc.github.io/</link>
     
     <image>
       <url>https://310mc.github.io/icon.png</url>
-      <title>With the five of us together...!</title>
+      <title>With the five of us together…!</title>
       <link>https://310mc.github.io/</link>
     </image>
     
@@ -178,9 +178,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/">2. Unit</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/">Ryuseitai</category>
       
@@ -213,9 +213,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/1-Era-ES-Era/Year-2/">Year 2</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Yuzuru/">Yuzuru</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Midori/">Midori</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Yuzuru/">Yuzuru</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Hiiro/">Hiiro</category>
       
@@ -262,11 +262,11 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Raika/">Raika</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shu/">Shu</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Makoto/">Makoto</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Arashi/">Arashi</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shu/">Shu</category>
       
       
       <category domain="https://310mc.github.io/tags/N-Story-Directory/">N;Story Directory</category>
@@ -464,9 +464,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kaoru/">Kaoru</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/3-Group/">3. Group</category>
       
@@ -474,11 +474,11 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibuki/">Ibuki</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mayoi/">Mayoi</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Souma/">Souma</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/3-Group/Marine-Life-Club/">Marine Life Club</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mayoi/">Mayoi</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/3-Group/Ninja-Association/">Ninja Association</category>
       
@@ -583,9 +583,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       
       <category domain="https://310mc.github.io/tags/Writer-Happy-Elements-Staff/">Writer; Happy Elements Staff</category>
