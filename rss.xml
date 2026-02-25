@@ -214,12 +214,12 @@
     </item>
     
     <item>
-      <title>[Song] Prologue no Sono Ato e – After the Prologue</title>
+      <title>[Song] Prologue no Sono Ato e – After the prologue</title>
       <link>https://310mc.github.io/after_the_prologue/</link>
       <guid>https://310mc.github.io/after_the_prologue/</guid>
       <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
       
-      <description>Translation of Prologue no Sono Ato e – After the Prologue Song Lyrics by 310mc. Sung by Dream Diary (Eichi, Hokuto, Mao, Chiaki, Tsukasa).</description>
+      <description>Translation of Prologue no Sono Ato e – After the prologue Song Lyrics by 310mc. Sung by Dream Diary (Eichi, Hokuto, Mao, Chiaki, Tsukasa).</description>
       
       
       
@@ -271,17 +271,13 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/">Ryuseitai</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/fine/">fine</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/MaM/">MaM</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/ALKALOID/">ALKALOID</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ra-bits/">Ra*bits</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/fine/">fine</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/2wink/">2wink</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Trickstar/">Trickstar</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/MaM/">MaM</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
@@ -290,6 +286,10 @@
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Valkyrie/">Valkyrie</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Akatsuki/">Akatsuki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Trickstar/">Trickstar</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/2wink/">2wink</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Knights/">Knights</category>
       
@@ -379,9 +379,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Eichi/">Eichi</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
       
@@ -527,8 +527,6 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibara/">Ibara</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibuki/">Ibuki</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Raika/">Raika</category>
@@ -536,6 +534,8 @@
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kuro/">Kuro</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mitsuru/">Mitsuru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibara/">Ibara</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Koga/">Koga</category>
       
@@ -568,8 +568,6 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibara/">Ibara</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibuki/">Ibuki</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Raika/">Raika</category>
@@ -577,6 +575,8 @@
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kuro/">Kuro</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mitsuru/">Mitsuru</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ibara/">Ibara</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Koga/">Koga</category>
       
@@ -613,9 +613,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/">2. Unit</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/">Ryuseitai</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ritsu/">Ritsu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/">Ryuseitai</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
