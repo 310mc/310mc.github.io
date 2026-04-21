@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>Ask box</title>
+      <title>Ask box &amp; Answers</title>
       <link>https://310mc.github.io/asks/</link>
       <guid>https://310mc.github.io/asks/</guid>
       <pubDate>Tue, 01 Jan 2030 09:00:00 GMT</pubDate>
@@ -179,12 +179,12 @@
     </item>
     
     <item>
-      <title>[ES!! Era Year 2] ONLY YOUR STARS: SHINE YOUR STARS! (Ryuseitai)</title>
+      <title>[ES!! Era Year 2] SHINE YOUR STARS! (Ryuseitai)</title>
       <link>https://310mc.github.io/shine_your_stars/</link>
       <guid>https://310mc.github.io/shine_your_stars/</guid>
       <pubDate>Wed, 15 Apr 2026 06:00:00 GMT</pubDate>
       
-      <description>Translation of Ryuseitai’s ONLY YOUR STARS! and SHINE YOUR STARS! mini talk story content.</description>
+      <description>Translation of Ryuseitai’s SHINE YOUR STARS! mini talk story content, related to the ONLY YOUR STARS! event.</description>
       
       
       
@@ -283,17 +283,17 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tetora/">Tetora</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tori/">Tori</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tori/">Tori</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/3-Group/">3. Group</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Hajime/">Hajime</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/HiMERU/">HiMERU</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Makoto/">Makoto</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/HiMERU/">HiMERU</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tsukasa/">Tsukasa</category>
       
@@ -476,13 +476,13 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ra-bits/">Ra*bits</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/UNDEAD/">UNDEAD</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Valkyrie/">Valkyrie</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Akatsuki/">Akatsuki</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Trickstar/">Trickstar</category>
       
@@ -582,9 +582,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Subaru/">Subaru</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Keito/">Keito</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Subaru/">Subaru</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mao/">Mao</category>
       
@@ -598,19 +598,19 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Makoto/">Makoto</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tsukasa/">Tsukasa</category>
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ritsu/">Ritsu</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Arashi/">Arashi</category>
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Tsukasa/">Tsukasa</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Souma/">Souma</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ritsu/">Ritsu</category>
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Arashi/">Arashi</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Rinne/">Rinne</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nagisa/">Nagisa</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nice/">Nice</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Rinne/">Rinne</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Leo/">Leo</category>
       
