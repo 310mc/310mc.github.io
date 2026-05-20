@@ -121,12 +121,12 @@
     </item>
     
     <item>
-      <title>Ryuseitai Feature Scout 5* Story Directory</title>
-      <link>https://310mc.github.io/featurescout/</link>
-      <guid>https://310mc.github.io/featurescout/</guid>
-      <pubDate>Mon, 31 Dec 2029 21:05:00 GMT</pubDate>
+      <title>Ryuseitai Idol Story Directory</title>
+      <link>https://310mc.github.io/idol_story/</link>
+      <guid>https://310mc.github.io/idol_story/</guid>
+      <pubDate>Mon, 31 Dec 2029 21:01:00 GMT</pubDate>
       
-      <description>Ensemble Stars (Enstars) Feature Scout story translations by 310mc.</description>
+      <description>Ensemble Stars (Enstars) Story translation directory. Includes Feature Scout Stories, Initial Idol Stories, and Initial Sub Stories.</description>
       
       
       
@@ -135,32 +135,11 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/1-Era-ES-Era/">1. Era; ES Era</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era-Yumenosaki-Era/">1. Era; Yumenosaki Era</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/1-Era-ES-Era/Year-2/">Year 2</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/1-Era-ES-Era/Year-1/">Year 1</category>
-      
-      
-      <category domain="https://310mc.github.io/tags/N-Story-Directory/">N;Story Directory</category>
-      
-      
-      <comments>https://310mc.github.io/featurescout/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Ryuseitai Initial Sub Story Directory</title>
-      <link>https://310mc.github.io/sub_story/</link>
-      <guid>https://310mc.github.io/sub_story/</guid>
-      <pubDate>Mon, 31 Dec 2029 21:01:00 GMT</pubDate>
-      
-      <description>Ensemble Stars (Enstars) Initial Sub Story translations by 310mc. Originally released with the game’s launch in 2015.</description>
-      
-      
-      
-      
-      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/1-Era-Yumenosaki-Era/">1. Era; Yumenosaki Era</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/1-Era-Yumenosaki-Era/Present-Days/">Present Days</category>
       
@@ -168,7 +147,7 @@
       <category domain="https://310mc.github.io/tags/N-Story-Directory/">N;Story Directory</category>
       
       
-      <comments>https://310mc.github.io/sub_story/#disqus_thread</comments>
+      <comments>https://310mc.github.io/idol_story/#disqus_thread</comments>
       
     </item>
     
@@ -238,11 +217,11 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Rei/">Rei</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mitsuru/">Mitsuru</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Hiiro/">Hiiro</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shu/">Shu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Mitsuru/">Mitsuru</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/">2. Unit</category>
       
@@ -270,9 +249,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/fine/">fine</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nagisa/">Nagisa</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nice/">Nice</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nagisa/">Nagisa</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Natsume/">Natsume</category>
       
@@ -286,13 +265,13 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ra-bits/">Ra*bits</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/UNDEAD/">UNDEAD</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Valkyrie/">Valkyrie</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Akatsuki/">Akatsuki</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Trickstar/">Trickstar</category>
       
@@ -349,9 +328,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/">2. Unit</category>
       
@@ -622,13 +601,13 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ra-bits/">Ra*bits</category>
       
+      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
+      
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/UNDEAD/">UNDEAD</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Valkyrie/">Valkyrie</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Akatsuki/">Akatsuki</category>
-      
-      <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Ryuseitai/Ryuseitai-POWER-UP/">Ryuseitai POWER UP</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/Trickstar/">Trickstar</category>
       
@@ -679,9 +658,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Chiaki/">Chiaki</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/2-Unit/">2. Unit</category>
       
@@ -724,9 +703,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Eichi/">Eichi</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Shinobu/">Shinobu</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Kanata/">Kanata</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Keito/">Keito</category>
       
@@ -752,9 +731,9 @@
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Ritsu/">Ritsu</category>
       
-      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nagisa/">Nagisa</category>
-      
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nice/">Nice</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/4-Character/Nagisa/">Nagisa</category>
       
       <category domain="https://310mc.github.io/categories/Enstars/4-Character/Rinne/">Rinne</category>
       
@@ -821,6 +800,35 @@
       
       
       <comments>https://310mc.github.io/good_at_streaming/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>[ES!! Era Year 2] SELECTION 10 UNIT: Getenshuu (下天衆)</title>
+      <link>https://310mc.github.io/getenshuu/</link>
+      <guid>https://310mc.github.io/getenshuu/</guid>
+      <pubDate>Sat, 24 Jan 2026 09:00:00 GMT</pubDate>
+      
+      <description>SELECTION 10 UNIT: Getenshuu (下天衆) (Tetora, Ibara, Koga, Mitsuru, Kuro, Ibuki, Raika) Campaign Story Translation from Ensemble Stars!! by 310mc.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era-ES-Era/">1. Era; ES Era</category>
+      
+      <category domain="https://310mc.github.io/categories/Enstars/1-Era-ES-Era/Year-2/">Year 2</category>
+      
+      
+      <category domain="https://310mc.github.io/tags/N-Story-Directory/">N;Story Directory</category>
+      
+      <category domain="https://310mc.github.io/tags/Writer-Happy-Elements-Staff/">Writer; Happy Elements Staff</category>
+      
+      <category domain="https://310mc.github.io/tags/S-Special-Story/">S;Special Story</category>
+      
+      
+      <comments>https://310mc.github.io/getenshuu/#disqus_thread</comments>
       
     </item>
     
